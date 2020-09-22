@@ -1,0 +1,12 @@
+C:\Users\manoj\source\repos\AdditionOfNumber\AdditionOfNumber\obj\Debug\netcoreapp3.0\AdditionOfNumber.csprojAssemblyReference.cache
+C:\Users\manoj\source\repos\AdditionOfNumber\AdditionOfNumber\obj\Debug\netcoreapp3.0\AdditionOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\AdditionOfNumber\AdditionOfNumber\obj\Debug\netcoreapp3.0\AdditionOfNumber.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\AdditionOfNumber\AdditionOfNumber\obj\Debug\netcoreapp3.0\AdditionOfNumber.AssemblyInfo.cs
+C:\Users\manoj\source\repos\AdditionOfNumber\AdditionOfNumber\bin\Debug\netcoreapp3.0\AdditionOfNumber.exe
+C:\Users\manoj\source\repos\AdditionOfNumber\AdditionOfNumber\bin\Debug\netcoreapp3.0\AdditionOfNumber.deps.json
+C:\Users\manoj\source\repos\AdditionOfNumber\AdditionOfNumber\bin\Debug\netcoreapp3.0\AdditionOfNumber.runtimeconfig.json
+C:\Users\manoj\source\repos\AdditionOfNumber\AdditionOfNumber\bin\Debug\netcoreapp3.0\AdditionOfNumber.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\AdditionOfNumber\AdditionOfNumber\bin\Debug\netcoreapp3.0\AdditionOfNumber.dll
+C:\Users\manoj\source\repos\AdditionOfNumber\AdditionOfNumber\bin\Debug\netcoreapp3.0\AdditionOfNumber.pdb
+C:\Users\manoj\source\repos\AdditionOfNumber\AdditionOfNumber\obj\Debug\netcoreapp3.0\AdditionOfNumber.dll
+C:\Users\manoj\source\repos\AdditionOfNumber\AdditionOfNumber\obj\Debug\netcoreapp3.0\AdditionOfNumber.pdb
